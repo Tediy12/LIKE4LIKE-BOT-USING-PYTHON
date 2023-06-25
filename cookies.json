@@ -1,0 +1,57 @@
+[
+{
+    "domain": ".like4like.org",
+    "expirationDate": 1750782588,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.1.1591136491.1687700383",
+    "id": 1
+},
+{
+    "domain": ".like4like.org",
+    "expirationDate": 1750782588,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_DVWFX221E1",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS1.1.1687709185.2.1.1687710588.0.0.0",
+    "id": 2
+},
+{
+    "domain": ".like4like.org",
+    "expirationDate": 1687796985,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.2.1731471226.1687700383",
+    "id": 3
+},
+{
+    "domain": ".like4like.org",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "PHPSESSID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "gsggsvg49no10bn38ie5dvd32s",
+    "id": 4
+}
+]
